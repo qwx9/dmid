@@ -1,0 +1,7 @@
+# Stuff imported into 9front
+
+dmid		midi to imf decoder using GENMIDI and with streaming support
+dpic		doom picture decoder/encoder
+mus		mus to midi decoder
+opl3		imf interpreter emulating an OPL3 sound card
+wadfs		doom wad file server
